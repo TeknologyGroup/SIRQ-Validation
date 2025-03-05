@@ -1,0 +1,13 @@
+file_key,condition,rpm,fault_type,detected_freq,theoretical_freq,error_pct,correlation,nearest_zero,critical
+normal_1797,normal,1797,BPFI_H1,160.5,159.8,0.44,0.32,14.1347,No
+normal_1772,normal,1772,BPFI_H1,157.9,157.6,0.19,0.34,14.1347,No
+normal_1750,normal,1750,BPFI_H1,155.8,155.7,0.06,0.36,14.1347,No
+normal_1730,normal,1730,BPFI_H1,154.1,153.8,0.19,0.35,14.1347,No
+ir_007_1797,inner_race,1797,BPFI_H1,160.2,159.8,0.25,0.84,14.1347,Yes
+ir_007_1772,inner_race,1772,BPFI_H1,157.8,157.6,0.13,0.86,14.1347,Yes
+ir_007_1750,inner_race,1750,BPFI_H1,155.9,155.7,0.13,0.87,14.1347,Yes
+ir_007_1730,inner_race,1730,BPFI_H1,153.9,153.8,0.06,0.87,14.1347,Yes
+ir_014_1797,inner_race,1797,BPFI_H1,160.3,159.8,0.31,0.83,14.1347,Yes
+ir_014_1772,inner_race,1772,BPFI_H1,157.7,157.6,0.06,0.86,14.1347,Yes
+ir_014_1750,inner_race,1750,BPFI_H1,155.8,155.7,0.06,0.87,14.1347,Yes
+ir_014_1730,inner_race,1730,BPFI_H1,153.9,153.8,0.06,0.87,14.1347,Yes
