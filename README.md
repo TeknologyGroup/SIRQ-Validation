@@ -70,5 +70,3 @@ SIRQ supera i metodi tradizionali in specificità e robustezza, convalidando un 
 
 ## 8. Appendice Matematica: Congettura di Hilbert-Pólya
 La congettura di Hilbert-Pólya postula che gli zeri non banali di ζ(s) = Σ(1/n^s) (Re(s) = 1/2) siano autovalori di un operatore hermitiano. La parte immaginaria (t) segue una distribuzione GOE, simile agli autovalori di sistemi caotici. Nei cuscinetti, le vibrazioni da guasti mappano questa distribuzione tramite frequenze scalate, convalidando un legame fisico-matematico.
-
-## 9. Architettura SIRQ IoT
